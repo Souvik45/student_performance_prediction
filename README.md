@@ -1,5 +1,4 @@
 # 🎓 Student Performance Prediction
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Souvik45/student_performance_prediction)
 
 A machine learning project that predicts whether a student will pass or fail based on demographic and socio-economic features — without using correlated score data to ensure a leakage-free, real-world applicable model.
 
