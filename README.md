@@ -58,9 +58,9 @@ Final Pipeline (StandardScaler + Logistic Regression)
 
 | Model               | Train Accuracy | Test Accuracy | F1 Score |
 | ------------------- | -------------- | ------------- | -------- |
-| Decision Tree       | —              | —             | —        |
-| Logistic Regression | —              | —             | —        |
-| Random Forest       | —              | —             | —        |
+| Decision Tree       |      1.0000    |     0.850     | 0.910180 |
+| Logistic Regression |      0.9525    |     0.905     | 0.943620 |
+| Random Forest       |      1.0000    |     0.875     | 0.926254 |
 
 *Run the notebook to populate results. The final model was selected based on the best F1 score and generalization balance.*
 
